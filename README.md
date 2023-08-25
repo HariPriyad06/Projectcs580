@@ -1,2 +1,2 @@
 # Projectcs580
-Intro to software
+Intro to software project
